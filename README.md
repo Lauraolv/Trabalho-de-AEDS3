@@ -1,2 +1,2 @@
-# Trabalho-de-AEDS3
+# Saída do Labirinto
 Foi proposto o desenvolvimento de um código eficiente(tempo de execução) e correto, em Pyhton, capaz de transformar um arquivo de texto em um grafo e encontrar o caminho da entrada e saída do labirinto. Para formar o grafo foi usado uma estrutura Graph, contentdo nós e arestas, além de uma lista para mapear as posições e qual caracter do labirinto estava naquelas coordenadas. Para encontrar o caminho correto, o algortimo aplicado foi o DFS, ou Busca em Profundidade.
